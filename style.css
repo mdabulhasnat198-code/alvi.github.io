@@ -102,6 +102,24 @@ h1, h2, h3 {
 .btn:hover {
   background: #005fa3;
 }
+.contact-icons p {
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+.contact-icons i {
+  margin-right: 10px;
+  color: #007acc;
+}
+
+.contact-icons a {
+  color: #333;
+  text-decoration: none;
+}
+
+.contact-icons a:hover {
+  color: #007acc;
+}
 
 /* Footer */
 footer {
